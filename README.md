@@ -39,11 +39,11 @@ Nairobi recorded the highest sales, totaling KSh 857,000, followed by Mombasa at
 
 **Recommendation:** Investigate the factors contributing to Nairobi's higher sales and assess whether effective sales practices can be adapted in other regions.
 
-Finding 2: Product Profitability
+### Finding 2: Product Profitability
 
 Laptops generated the highest total profit at KSh 299,000, followed by phones at KSh 231,000 and printers at KSh 138,000. Total profit across all products was KSh 668,000.
 
-Recommendation: Examine the factors behind laptop profitability, including selling prices, costs, and sales volume. Use this analysis to inform future product and pricing decisions.
+**Recommendation:** Examine the factors behind laptop profitability, including selling prices, costs, and sales volume. Use this analysis to inform future product and pricing decisions.
 
 ### Finding 3: Salesperson Performance
 
