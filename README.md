@@ -34,3 +34,8 @@ The repository will contain the Excel dashboard and supporting documentation.
 ## 6. Key Findings
 
 Findings and recommendations will be added after reviewing and verifying the analysis results.
+## Dashboard Preview
+
+The screenshot below provides a visual overview of the Excel sales performance dashboard.
+
+![Sales Performance Dashboard](sales-dashboard.png)
